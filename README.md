@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0000,50:3d0000,100:6b0000&height=200&section=header&text=LARAVELPROJECT&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Web%20Application%20Built%20with%20Laravel&descSize=15&descAlignY=62&animation=fadeIn&fontFamily=georgia" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0000,50:3d0000,100:6b0000&height=200&section=header&text=LARAVEL PROJECT&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Web%20Application%20Built%20with%20Laravel&descSize=15&descAlignY=62&animation=fadeIn&fontFamily=georgia" width="100%"/>
 <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&size=22&duration=3000&pause=1000&color=FF4444&center=true&vCenter=true&width=600&lines=Built+with+Laravel+%26+Full+Stack+Power.;Clean+Architecture.+Scalable+Design.;REST+API+%7C+Blade+%7C+MySQL." alt="Typing SVG" />
 <br/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
