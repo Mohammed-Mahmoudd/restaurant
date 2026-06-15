@@ -1,59 +1,124 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0000,50:3d0000,100:6b0000&height=200&section=header&text=LARAVELPROJECT&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Web%20Application%20Built%20with%20Laravel&descSize=15&descAlignY=62&animation=fadeIn&fontFamily=georgia" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&size=22&duration=3000&pause=1000&color=FF4444&center=true&vCenter=true&width=600&lines=Built+with+Laravel+%26+Full+Stack+Power.;Clean+Architecture.+Scalable+Design.;REST+API+%7C+Blade+%7C+MySQL." alt="Typing SVG" />
+<br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+<br/>
 
-<p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
+## `◈` &nbsp; About
 
-## About Laravel
+> **LaravelProject** is a full-stack web application built on the Laravel framework, combining a robust backend with a clean, responsive frontend.
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+This project is developed by me as a complete full-stack solution — covering everything from database architecture and RESTful API design to Blade-templated views and authentication. Built for performance, scalability, and maintainability.
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+MVC Architecture · RESTful API · Role-Based Auth · Fully Responsive.
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+<br/>
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+<br/>
 
-## Learning Laravel
+## `◈` &nbsp; Stack
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework. You can also check out [Laravel Learn](https://laravel.com/learn), where you will be guided through building a modern Laravel application.
+<div align="center">
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains thousands of video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+| | Technology |
+|:---|:---|
+| **Framework** | Laravel 11 |
+| **Frontend** | Blade · Alpine.js · Tailwind CSS |
+| **Database** | MySQL |
+| **Auth** | Laravel Sanctum / Breeze |
+| **Language** | PHP · JavaScript |
+| **Dev Tools** | Vite · Composer · Artisan |
 
-## Laravel Sponsors
+</div>
+<br/>
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+<br/>
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the [Laravel Partners program](https://partners.laravel.com).
+## `◈` &nbsp; Features
 
-### Premium Partners
+<div align="center">
 
-- **[Vehikl](https://vehikl.com)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel)**
-- **[DevSquad](https://devsquad.com/hire-laravel-developers)**
-- **[Redberry](https://redberry.international/laravel-development)**
-- **[Active Logic](https://activelogic.com)**
+| | Feature |
+|:---|:---|
+| `✦` | User Authentication & Role-Based Access Control |
+| `✦` | RESTful API with JSON responses |
+| `✦` | Dynamic Blade views with reusable components |
+| `✦` | Database migrations, seeders & Eloquent ORM |
+| `✦` | Form validation & error handling |
+| `✦` | Responsive UI with Tailwind CSS |
+| `✦` | Middleware-protected routes |
+| `✦` | File uploads & storage management |
 
-## Contributing
+</div>
+<br/>
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+<br/>
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+## `◈` &nbsp; Getting Started
 
-## Code of Conduct
+```bash
+# Clone the repository
+git clone https://github.com/your-username/your-repo.git
+cd your-repo
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
+# Install PHP dependencies
+composer install
 
-## Security Vulnerabilities
+# Install Node dependencies
+npm install
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
+# Copy environment file and configure
+cp .env.example .env
+php artisan key:generate
 
-## License
+# Set up your database in .env, then run migrations
+php artisan migrate --seed
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+# Build frontend assets
+npm run dev
+
+# Start the development server
+php artisan serve
+```
+
+<br/>
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+<br/>
+
+## `◈` &nbsp; Preview
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/your-username/your-repo/main/preview.png" width="100%" alt="Project Preview"/>
+</div>
+<br/>
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+<br/>
+
+## `◈` &nbsp; Links
+
+<div align="center">
+<br/>
+
+[![Live](https://img.shields.io/badge/Live%20Demo-6b0000?style=for-the-badge&logoColor=ffffff&labelColor=3d0000)](https://your-live-site.com)
+&nbsp;
+[![Repo](https://img.shields.io/badge/Repository-6b0000?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=3d0000)](https://github.com/your-username/your-repo)
+
+<br/>
+</div>
+<br/>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6b0000,50:3d0000,100:1a0000&height=120&section=footer&animation=fadeIn" width="100%"/>
+<sub>© 2026 LaravelProject &nbsp;·&nbsp; Developed by <a href="https://mohammed-mahmoud.com">Mohammed Mahmoud</a></sub>
+</div>
