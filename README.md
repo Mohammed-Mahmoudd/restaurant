@@ -24,7 +24,7 @@ MVC Architecture · RESTful API · Role-Based Auth · Fully Responsive.
 
 <div align="center">
 
-| | Technology |
+| This | Technology |
 |:---|:---|
 | **Framework** | Laravel 11 |
 | **Frontend** | Blade · Alpine.js · Tailwind CSS |
@@ -40,17 +40,6 @@ MVC Architecture · RESTful API · Role-Based Auth · Fully Responsive.
 </div>
 <br/>
 
-## `◈` &nbsp; Links
-
-<div align="center">
-<br/>
-
-[![Live](https://img.shields.io/badge/Live%20Demo-6b0000?style=for-the-badge&logoColor=ffffff&labelColor=3d0000)](https://your-live-site.com)
-&nbsp;
-[![Repo](https://img.shields.io/badge/Repository-6b0000?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=3d0000)](https://github.com/your-username/your-repo)
-
-<br/>
-</div>
 <br/>
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6b0000,50:3d0000,100:1a0000&height=120&section=footer&animation=fadeIn" width="100%"/>
