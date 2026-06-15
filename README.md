@@ -8,7 +8,7 @@
 
 ## `◈` &nbsp; About
 
-> **Laravel Project** is a full-stack web application built on the Laravel framework, combining a robust backend with a clean, responsive frontend.
+> **Restaurant** is a full-stack web application built on the Laravel framework, combining a robust backend with a clean, responsive frontend.
 
 This project is developed by me as a complete full-stack solution — covering everything from database architecture and RESTful API design to Blade-templated views and authentication. Built for performance, scalability, and maintainability.
 
